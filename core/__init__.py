@@ -1,0 +1,3 @@
+"""
+CogniHire Core Package
+"""
