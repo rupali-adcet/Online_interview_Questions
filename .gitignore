@@ -25,3 +25,4 @@ venv/
 ENV/
 *.zip
 .DS_Store
+Push_To_GitHub.bat
